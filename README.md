@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution HTML]()
-- [Solution CSS]()
+- [Solution HTML](https://github.com/Coskntkk/Frontend-Mentor-NFT-preview-card-component-solution/blob/main/index.html)
+- [Solution CSS](https://github.com/Coskntkk/Frontend-Mentor-NFT-preview-card-component-solution/blob/main/styles.css)
 - [Live Site URL](https://your-live-site-url.com)
 
 ## My process

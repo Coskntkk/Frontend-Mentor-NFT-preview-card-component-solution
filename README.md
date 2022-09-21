@@ -87,4 +87,4 @@ So in order to code banner hover, i had to write this code:
 
 ## Acknowledgments
 
-Thanks to [Mizgin](https://github.com/MizginYildirak) for telling me about Frontend Mentor and this project.
+Special thanks to [Mizgin](https://github.com/MizginYildirak) for telling me about Frontend Mentor and this project.

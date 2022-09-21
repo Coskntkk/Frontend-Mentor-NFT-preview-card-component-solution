@@ -33,7 +33,7 @@ Users should be able to:
 
 - [Solution HTML](https://github.com/Coskntkk/Frontend-Mentor-NFT-preview-card-component-solution/blob/main/index.html)
 - [Solution CSS](https://github.com/Coskntkk/Frontend-Mentor-NFT-preview-card-component-solution/blob/main/styles.css)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://coskntkk.github.io/Frontend-Mentor-NFT-preview-card-component-solution/)
 
 ## My process
 
